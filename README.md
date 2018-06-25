@@ -7,7 +7,7 @@ Build a simple dockerised web app that meets the requirements listed below.
 - Use any language you like
 - Should respond to `/`, `/treasure` and `/_health`
 	- `/`: Prints 'Hello World' in any design you like. Returns 200
-	- `/treasure`: Display a configurable string as a UI or structured API response. Returns 200
+	- `/treasure`: Display a string that comes from configuration as part of a UI or structured API response. Returns 200
 	- `/_health`: Returns a structured API response saying whether everything is OK. Returns 200
 - Log to STDOUT, preferably structured
 - Should take configuration via environment variables
