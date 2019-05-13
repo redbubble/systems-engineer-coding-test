@@ -14,8 +14,10 @@ Build a simple dockerised web app that meets the requirements listed below.
 - Building and running the application should be easy. Provide instructions.
 
 ## Other requirements
+- Include some documentation, including letting us know how you know your solution works.
 - Write code which you would be proud to commit at work or to an open-source project.
 - If you use version control while developing your submission, please include the version history with your submission. This allows us to see the process that you followed while you worked. For example, if you commit to git as you worked, please include the .git directory in the zip file that you send us.
 - We're not timing you, and you can take as much time as you like, but this test is intended to take you no more than a few hours.
 
-Copyright © 2018 Redbubble Ltd
+
+Copyright © 2019 Redbubble Ltd
